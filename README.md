@@ -76,7 +76,8 @@ La méthodologie peut être étendue à des données réelles issues de capteurs
 - Utilisation de données réelles industrielles
 - Ajout de nouvelles classes de défauts
 
-
- **Auteur :** *HAJAR EL ALAMI*  
-📅 **Année :** 2025 
-📚 **Domaine :** Intelligence Artificielle / Maintenance Prédictive  
+ **Auteur :** *HAJAR EL ALAMI*
+ 
+ **Année :** *2025*
+ 
+ **Domaine :** Intelligence Artificielle / Maintenance Prédictive  
