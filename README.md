@@ -10,7 +10,6 @@ La solution repose sur :
 - L’utilisation d’un **réseau de neurones récurrent (LSTM)** capable d’apprendre des dépendances temporelles.
 - L’évaluation du modèle à l’aide de métriques de performance classiques (accuracy, matrice de confusion, etc.).
 
----
 
 ## Organisation du projet
 
@@ -23,9 +22,9 @@ Ce module crée un jeu de données artificiel représentant différents comporte
 Ce module charge les données générées, entraîne un modèle LSTM et évalue ses performances.
 
 
-## 🧠 Code 1 : Génération des données simulées
+##  Code 1 : Génération des données simulées
 
-### 🎯 Objectif
+###  Objectif
 Créer un jeu de données réaliste représentant :
 - un fonctionnement normal du système,
 - plusieurs types de pannes industrielles.
@@ -61,7 +60,7 @@ Apprendre automatiquement à reconnaître les différents types de pannes à par
    - Matrice de confusion
    - Analyse des performances par classe
 
-## 📊 Résultats et interprétation
+##  Résultats et interprétation
 
 - Le modèle apprend efficacement les patterns temporels.
 - Les courbes montrent une bonne convergence.
@@ -76,9 +75,8 @@ La méthodologie peut être étendue à des données réelles issues de capteurs
 ## Perspectives d’amélioration
 - Utilisation de données réelles industrielles
 - Ajout de nouvelles classes de défauts
-- Optimisation des hyperparamètres
-- Test d’autres architectures (GRU, Transformer)
 
-📌 **Auteur :** *HAJAR EL ALAMI*  
+
+ **Auteur :** *HAJAR EL ALAMI*  
 📅 **Année :** 2025 
 📚 **Domaine :** Intelligence Artificielle / Maintenance Prédictive  
